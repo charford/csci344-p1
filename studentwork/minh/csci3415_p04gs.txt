@@ -1,0 +1,32 @@
+X/100
+
+CSCI 3415: Principles of Programming Languages
+Project 4 Grade Sheet, flex and bison
+
+Points Possible	Description
+1	X/5	Flex runs without warnings or errors
+
+2	X/10	Bison runs without warnings or errors
+
+3	X/5	C++ code compiles and runs
+
+4	X/10	Monsters and treasures are optional with a Room.
+
+5	X/10	A Monster's hits and weapon may be provided in either order
+
+6	X/10	The program reads directly from dungeon.txt
+
+7	X/10	After parsing dungeon.txt, the user is able to either print the
+                sorted dungeon or exit.
+
+8	X/10	Each call to strdup() in the flex file is matched by a call to
+                free() in the bison file
+
+9	X/10	The code uses Monster, Treasure, Room, and Dungeon classes.
+
+10	X/10	Rooms, Treasures, and Monsters allocated by new are released
+                using delete in the Dungeon destructor.
+
+11	X/10	The various strings (room description, monster type, etc.) do
+                not have any erroneous text (e.g., leading whitespace).
+================================================================================

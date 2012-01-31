@@ -1,0 +1,23 @@
+Room: 13
+  Description:                                            This room is the antechamber to the mad mage's crypt.  All that remains of the the door into the room are rusty hinges still attached to the wall .  A couple of orcs have turned the room into their lair.
+  Monster: Orc
+    Hits: 20
+    Weapon: Short Sword
+  Treasure: Belt pouch with a gold locket
+    Value: 30
+  Monster: Orc
+    Weapon: Scimitar
+    Hits: 25
+  Treasure: Gold Pieces
+    Value: 30
+  Treasure: Behind a loose stone on the South wall is a silver medallion which makes is wearer invisible when worn in moonlight.
+    Value: 400
+
+Room: 12
+  Description: A small, empty,  10' X 10' room.
+ 
+Room: 21
+  Description: This is the treasure room of the mad mage.  A chest in the northwest corner is trapped and will cause 2-12 points if not disarmed before opening it.
+  Treasure: the trapped chest is full of gold pieces.
+  Value: 95
+

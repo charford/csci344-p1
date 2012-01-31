@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#current program being graded
+echo $1
+
+for f in *.tar; 
+do 
+	tar xvf $f
+	cp  csci3415_p$1gs.txt `echo $f | sed -e 's/.tar//'`
+done

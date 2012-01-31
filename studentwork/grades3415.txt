@@ -1,0 +1,7 @@
+Name|email|p1|p2|p3
+Aaron Johnson|ajohnson@gmail.com|100|100|100
+Zachary Builter|zachary.builter@ucdenver.edu|99|100|95
+Patrick Douglass|patrick.douglass@ucdenver.edu|100|77|95
+Michelle Martinez|michelle.martinez@ucdenver.edu|100|95|90
+Minh Nguyen Vinh Thien|minh.nguyen.thien@ucdenver.edu|99|98|100
+julieanderson|juliea46@yahoo.com|82|95|100
